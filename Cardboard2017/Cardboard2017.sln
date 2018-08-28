@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardboard2017", "Cardboard2017.csproj", "{47B12C53-5848-B971-4C36-323566037BB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardboard2017.Plugins", "Cardboard2017.Plugins.csproj", "{0711B4CD-FBAA-E7FF-2186-28030D497238}"
